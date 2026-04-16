@@ -2,7 +2,7 @@
 
 ## 📌 Task 1 - Machine Learning Internship
 
-This project implements a Linear Regression model to predict house prices based on important features.
+This project implements a Linear Regression model to predict house prices based on key features such as living area, number of bedrooms, and bathrooms.
 
 ---
 
@@ -26,15 +26,15 @@ This project implements a Linear Regression model to predict house prices based 
 
 ## 📊 Model Performance
 
-* Evaluated using:
+* Evaluation Metrics:
 
   * Mean Absolute Error (MAE)
   * R² Score
 
 * Example Results:
 
-  * R² Score: ~0.75
-  * MAE: ~25000
+  * R² Score: 0.85
+  * MAE: 18055
 
 ---
 
@@ -45,20 +45,37 @@ This project implements a Linear Regression model to predict house prices based 
 
 ---
 
+## 📷 Output
+
+![Heatmap](heatmap.png)
+![Regression Plot](regression_plot.png)
+
+---
+
 ## 🛠️ Technologies Used
 
 * Python
 * Pandas
+* NumPy
 * Scikit-learn
 * Matplotlib
 * Seaborn
 
 ---
 
-## 📷 Output
+## ▶️ How to Run
 
-![Heatmap](heatmap.png)
-![Regression Plot](regression_plot.png)
+1. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. Run the model:
+
+   ```bash
+   python model.py
+   ```
 
 ---
 
@@ -71,3 +88,9 @@ This project strengthened my understanding of Machine Learning concepts and gave
 ## 👤 Author
 
 Rutuja Jilhawar
+
+---
+
+## 🔗 Connect with Me
+
+[LinkedIn Profile](https://linkedin.com/in/rutuja-jilhawar-0a3647291)
