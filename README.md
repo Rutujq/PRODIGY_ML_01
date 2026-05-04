@@ -87,7 +87,7 @@ This project strengthened my understanding of Machine Learning concepts and gave
 
 ## 👤 Author
 
-Rutuja Jilhawar
+Rutuja Jilhawar 
 
 ---
 
